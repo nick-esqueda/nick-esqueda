@@ -1,6 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/nick-esqueda/nick-esqueda/blob/main/Ry6p.gif" width="120" height="120" />
-
-## What's up! 👋
+## What's up!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/nick-esqueda/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
