@@ -37,7 +37,7 @@
 
   
 ### About Me:
-Hey! I'm a software engineer, music producer, audio engineer, and I'm also growing my hair out. And it kinda sucks!
+Hey! I'm a Software Engineer, Music Producer, Audio Engineer, and I'm also growing my hair out. And it kinda sucks!
 
 Going through school I was hyper-obsessed with music, and by the end of junior year, I realized that was a road that I seriously wanted to investigate.
 
