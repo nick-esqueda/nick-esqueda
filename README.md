@@ -47,6 +47,6 @@ During that time, I ran into a new-found friend at work that told me about a Dat
 
 So, I applied to App Academy, got in, finished the course within a blink, and with massive, flying colors. That choice ended up being one of the best decisions I've made in my entire life. With the music production and audio mixing/mastering background that I have, it felt so familiar and immensely satisfying to be exploring yet another massive and complicated system in order to fit the pieces together, in a purely logical way this time.
 
-Now, I'm at the end of that journey and am searching for the right team to work with, and to do something really really great and captivating. Hi Google pls ok :)
+Now, I'm at the end of the bootcamp journey and am searching for the right team to work with, and to do something really really great and captivating. My whole life has been spent creating beautiful and intricate things that fill me with meaning, and finding the right team will make it even more worthwhile.
 
   
