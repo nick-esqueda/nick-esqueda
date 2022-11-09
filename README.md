@@ -37,16 +37,17 @@
 
   
 ### About Me:
-Hey! I'm a Software Engineer, Music Producer, Audio Engineer, and I'm also growing my hair out. And it kinda sucks!
+Hey! I'm a Software Engineer and a Music Producer/Mix Engineer. I'm also growing my hair out, and it kinda sucks!
 
 Going through school I was hyper-obsessed with music, and by the end of junior year, I realized that was a road that I seriously wanted to investigate.
 
-From there, I began learning music production, teaching myself different software to create music with. It ended up being intensely satisfying to me, working with this massive system that requires you to put all the pieces together in the "correct" way.
+From there, I began learning music production, teaching myself different software to create music with. I was able to teach myself both Cubase and Ableton, and all of the plugins required to make an amazing track. This ended up being intensely satisfying to me, and from then on, I spent all day/every day producing music for 4 years straight.
 
-During that time, I ran into a new-found friend at work that told me about a Database Administration course. I had no idea what that meant, so I looked it up on Google, as all astute and budding engineers do. From there, I discovered Software Engineering/Web Development. I caught myself saying, "hold on, this is really, REALLY interesting..." out loud, and realized that software engineering was quite literally the perfect field for my brain to exist in. It felt as if I was supposed to be here.
+During that time, I ran into a new friend at work that told me about JavaScript and Python and other words I didn't know the meaning to. I caught myself asking way too many questions about all of this, and spent hours and days researching the Software Engineering field. I realized then that Software Engineering was quite literally the perfect field for my brain to exist in. It felt like this was what I was supposed to be doing.
 
-So, I applied to App Academy, got in, finished the course within a blink, and with massive, flying colors. That choice ended up being one of the best decisions I've made in my entire life. With the music production and audio mixing/mastering background that I have, it felt so familiar and immensely satisfying to be exploring yet another massive and complicated system in order to fit the pieces together, in a purely logical way this time.
+So, I applied to App Academy, a 1000+ hour immersive coding bootcamp that focuses on full-stack engineering. I got in, and learned all about web development and technologies including React, Redux, Express.js, Flask, PostgreSQL, and a whole bunch of other topics that shouldn't be brought up at a party. I finished the course within a blink, and with flying colors. The choice to investigate the programming world ended up being one of the best decisions I've made in my entire life. With the music production and audio mixing/mastering background that I have, it felt so familiar and immensely satisfying to be exploring yet another massive and complicated system, and I found that I could do it very well. 
 
-Now, I'm at the end of the bootcamp journey and am searching for the right team to work with, and to do something really really great and captivating. My whole life has been spent creating beautiful and intricate things that fill me with meaning, and finding the right team will make it even more worthwhile.
+Now, I'm at the end of the bootcamp journey and am searching for the right team to work with, and to do something really, really great and captivating. My whole life has been spent creating beautiful and intricate things that fill me with meaning, and finding the right team will make it even more worthwhile.
 
-  
+Feel free to reach out to me!
+Email: nick_esqueda@outlook.com
