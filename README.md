@@ -37,6 +37,7 @@
 
   
 ### About Me:
+
 🚀 Backend Software Engineer | Passionate about Maintainability and Scalability 🚀
 
 Inquisitive backend software engineer skilled in communication and managing high-volume enterprise microservices. Specializing in Java and Spring Boot, I've led projects that handle millions of daily requests for biometric and passwordless login systems. My expertise includes collaborating with cross-functional teams to implement critical fixes, enhance system reliability, and improve the customer experience.
@@ -44,9 +45,13 @@ Inquisitive backend software engineer skilled in communication and managing high
 Previously an instructional assistant at App Academy, where I received a 4.9/5 student feedback rating. I'm dedicated to continuous learning and staying updated with the latest technologies and best practices in software engineering.
 
 Values:
+
 🧠 Knowledge
+
 🗣️ Communication
+
 ❤️ Honesty
+
 🧘 Self-awareness
 
 Let's connect! I'd love to hear from you.
