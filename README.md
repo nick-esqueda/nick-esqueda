@@ -1,14 +1,14 @@
 ## What's up!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 <a href="https://www.linkedin.com/in/nick-esqueda/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />
   Want to connect?
 </a>
   
 <br>  
 <br>
 
-<p align="center">Some languages and technologies that I use:</p>
+<p align="center">Languages & Technologies I Use:</p>
 <p align="center">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="width:50px;" />
@@ -37,17 +37,18 @@
 
   
 ### About Me:
-Hey! I'm a Software Engineer and a Music Producer/Mix Engineer. I'm also growing my hair out, and it kinda sucks!
+🚀 Backend Software Engineer | Passionate about Maintainability and Scalability 🚀
 
-Going through school I was hyper-obsessed with music, and by the end of junior year, I realized that was a road that I seriously wanted to investigate.
+Inquisitive backend software engineer skilled in communication and managing high-volume enterprise microservices. Specializing in Java and Spring Boot, I've led projects that handle millions of daily requests for biometric and passwordless login systems. My expertise includes collaborating with cross-functional teams to implement critical fixes, enhance system reliability, and improve the customer experience.
 
-From there, I began learning music production, teaching myself different software to create music with. I was able to teach myself both Cubase and Ableton, and all of the plugins required to make an amazing track. This ended up being intensely satisfying to me, and from then on, I spent all day/every day producing music for 4 years straight.
+Previously an instructional assistant at App Academy, where I received a 4.9/5 student feedback rating. I'm dedicated to continuous learning and staying updated with the latest technologies and best practices in software engineering.
 
-During that time, I ran into a new friend at work that told me about JavaScript and Python and other words I didn't know the meaning to. I caught myself asking way too many questions about all of this, and spent hours and days researching the Software Engineering field. I realized then that Software Engineering was quite literally the perfect field for my brain to exist in. It felt like this was what I was supposed to be doing.
+Values:
+🧠 Knowledge
+🗣️ Communication
+❤️ Honesty
+🧘 Self-awareness
 
-So, I applied to App Academy, a 1000+ hour immersive coding bootcamp that focuses on full-stack engineering. I got in, and learned all about web development and technologies including React, Redux, Express.js, Flask, PostgreSQL, and a whole bunch of other topics that shouldn't be brought up at a party. I finished the course within a blink, and with flying colors. The choice to investigate the programming world ended up being one of the best decisions I've made in my entire life. With the music production and audio mixing/mastering background that I have, it felt so familiar and immensely satisfying to be exploring yet another massive and complicated system, and I found that I could do it very well. 
+Let's connect! I'd love to hear from you.
 
-Now, I'm at the end of the bootcamp journey and am searching for the right team to work with, and to do something really, really great and captivating. My whole life has been spent creating beautiful and intricate things that fill me with meaning, and finding the right team will make it even more worthwhile.
-
-Feel free to reach out to me!
 Email: nick_esqueda@outlook.com
