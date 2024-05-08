@@ -10,7 +10,9 @@
 
 <p align="center">Languages & Technologies I Use:</p>
 <p align="center">
-  
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="width:50px;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" style="width:50px;" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="width:50px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width:50px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width:50px;" />
