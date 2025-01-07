@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi! 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi, I'm Nick
 
 <a href="https://www.linkedin.com/in/nick-esqueda/">
   <img align="left" alt="nick's linkedin" width="30px" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" />
@@ -30,13 +30,6 @@
 </p>
 
 <br>  
-
-
-### My Stats:
-  
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nick-esqueda&show_icons=true&theme=tokyonight" alt="nick-esqueda" /></p>
-
   
 ### About Me:
 
